@@ -9,6 +9,7 @@ app.get('/get_data', function(req, res) {
 });
 
 
+
 app.listen(port, function(){
 	console.log('Listening Port');
 });
